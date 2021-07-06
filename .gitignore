@@ -1,0 +1,5 @@
+Environment/
+/volume/data/interim/**
+/volume/data/processed/**
+/volume/models/**
+.DS_Store
